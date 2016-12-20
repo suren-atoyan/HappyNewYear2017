@@ -1,17 +1,17 @@
 
-												        /**/
-												       /****/
-											                /**/
+												        /**\
+												       |****|
+											                \**/
 													//\\
-												       //| \\
-												      //||| \\
-												     //||||| \\
-											            //||||||| \\
-												   //|||JS|||| \\
-												  //|||NODE|||| \\
-												 //||||||||||||| \\
-											        //||||||||||||||| \\
-											       //||||||||||||||||| \\
+												       //||\\
+												      //||||\\
+												     //||||||\\
+											            //||||||||\\
+												   //|||JS|||||\\
+												  //|||NODE|||||\\
+												 //||||||||||||||\\
+											        //||||||||||||||||\\
+											       //||||||||||||||||||\\
 											      const year = (2016 + 1); 
 											     class HappyNewYearCoders {
 											    constructor ( year, wish ) {
@@ -19,7 +19,7 @@
 										          this.Author =Symbol}getMessage()
 										         {return `Happy new :: ${this.year}
 										        Year to all :*ProGraMMerS*: and :IT:
-									               specialists.:::${this.wich}:::. From :
+									               specialists.:::${this.wish}:::. From :
 										      :${this.ident()[this.Author]}`}ident() {
 										      return {[this.Author]:'SurenAt'}}alert(){
 										     console.log('Message: ',this.getMessage());
